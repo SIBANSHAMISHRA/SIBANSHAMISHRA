@@ -5,8 +5,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm a final-year B.Tech CSE student at **C.V. Raman Global University, Bhubaneswar**  
-- 👨‍💻 Currently preparing for **placements and internships** at top companies like Google and Amazon  
+- 🎓 I'm a final-year B.Tech CSE student at **C.V. Raman Global University, Bhubaneswar**   
 - 🚀 Passionate about **Machine Learning, Deep Learning (GANs, CNNs, NLP)**, and **Cloud Deployment**  
 - 📚 Learning full-stack development and working on real-world **project-based learning**
 - 💡 Love exploring how AI can solve real-life problems
@@ -44,14 +43,12 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sibanshamishra)  
 - 🌐 Personal Website: Coming Soon  
-- 📧 Email: `sibanshamishra@gmail.com`
+- 📧 Email: `sibanshamishra73@gmail.com`
 
 ---
 
 ### ⚡ Fun Facts
-
-- 🏋️‍♂️ On a **fitness journey**—lost weight through diet & home workouts  
-- 🚴‍♂️ Love **cycling, fitness tracking**, and learning about health science  
+  
 - ☕ Always up for a coffee and a coding challenge
 
 ---
